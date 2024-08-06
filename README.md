@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at
   1. https://gregarious-cassata-e9506b.netlify.app/
   2. https://66b0839464f3fc9c0637777e--famous-baklava-78c60c.netlify.app/
-  3. https://66b082b5388a0791bf4ab265--thunderous-moxie-6c6b83.netlify.app/ 4.
+  3. https://66b082b5388a0791bf4ab265--thunderous-moxie-6c6b83.netlify.app/ 
   4. https://66b08328fe7aad9aef218664--gorgeous-centaur-d8554e.netlify.app/
 
 - ⚡ Fun fact **I think I am Funny.**
