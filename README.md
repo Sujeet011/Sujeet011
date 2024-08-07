@@ -1,4 +1,4 @@
-![logo](https://github.com/Sujeet011/Sujeet011/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/Sujeet011/Sujeet011/blob/main/Background%20image.jpg)
 <h1 align="center">Hi 👋, I'm Sujeet Kumar Mahto</h1>
 <h3 align="center">I'm a passionate web developer with expertise in HTML, CSS, JavaScript. I specialize in creating responsive, user-friendly web applications.</h3>
 
